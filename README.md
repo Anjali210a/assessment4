@@ -1,4 +1,4 @@
-# Project AJ - Job & Application Dashboard API
+# Project Anjaligupta - Job & Application Dashboard API
 
 A full-stack Node.js + MongoDB application to manage job postings and applications, with a simple frontend dashboard.
 
@@ -34,7 +34,7 @@ A full-stack Node.js + MongoDB application to manage job postings and applicatio
 
 ```bash
 git clone https://github.com/.git
-cd project-aj
+cd project-anjali
 ```
 ---
 NPM Packages Used:
